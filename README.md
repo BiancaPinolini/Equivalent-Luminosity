@@ -16,6 +16,6 @@ And you know (looking into the repository) that there are *58* TTTo2L2Nu samples
 root 'eqlumi.C("/Autumn18_102X_nAODv6_Full2018v6", "/MCl1loose2018v6__MCCorr2018v6__l2loose__l2tightOR2018v6", "TTTo2L2Nu", 58, 2018)' > output.txt
 ```
 
-Pay attention!
-a. In both mcProduction and mcSteps you must insert a "/" at the beginning
-b. The number of samples and the data-taking years are to be entered as Int numbers
+Pay attention
+* In both mcProduction and mcSteps you must insert a "/" at the beginning
+* The number of samples and the data-taking years are to be entered as Int numbers
