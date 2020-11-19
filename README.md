@@ -7,10 +7,15 @@ All you need to know is:
 3. How many samples are there in the directory
 4. The data-taking year
 
-For example, if you want to know the integrated equivalent luminosity of the sample *TTTo2L2Nu*, from the *2018* data-taking period and for which:
+For example, if you want to know the integrated equivalent luminosity of the sample `TTTo2L2Nu`, from the `2018` data-taking period and for which:
+
+```
 mcProduction = "/Autumn18_102X_nAODv6_Full2018v6"
 mcSteps = "/MCl1loose2018v6__MCCorr2018v6__l2loose__l2tightOR2018v6"
-And you know (looking into the repository) that there are *58* TTTo2L2Nu samples, you must run:
+```
+
+And you know (looking into the repository) that there are *58* `TTTo2L2Nu` samples, you must run:
+
 
 ```
 root 'eqlumi.C("/Autumn18_102X_nAODv6_Full2018v6", "/MCl1loose2018v6__MCCorr2018v6__l2loose__l2tightOR2018v6", "TTTo2L2Nu", 58, 2018)' > output.txt
