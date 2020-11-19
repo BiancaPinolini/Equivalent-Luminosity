@@ -1,5 +1,5 @@
 # Equivalent-Luminosity
-This ROOT macro extracts the number of generated events, the Cross Section and computes the integrated equivalent luminosity for the Latinos samples.
+This ROOT macro extracts for the Latinos samples the number of generated events, the Cross Section and computes the integrated equivalent luminosity.
 
 All you need to know is:
 1. The name of the sample you want to calculate the eq. luminosity for
