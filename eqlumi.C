@@ -41,6 +41,6 @@ void eqlumi(char const *MC_prod, char const *MC_step, char const *sample_name, I
     T_events->GetEntry(0);
     std::cout << "Xsec (pb) = " << xsec << std::endl;
 
-    std::cout << "Equivalent Luminosity = " << Sum/xsec << std::endl;
+    std::cout << "Equivalent Luminosity (/pb) = " << Sum/xsec << std::endl;
 
 }

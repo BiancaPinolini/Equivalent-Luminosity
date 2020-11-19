@@ -11,4 +11,4 @@ Processing eqlumi.C("/Autumn18_102X_nAODv6_Full2018v6", "/MCl1loose2018v6__MCCor
 TTTo2L2Nu
 Number of events = 4.62208e+09
 Xsec (pb) = 87.31
-Equivalent Luminosity = 5.29387e+07
+Equivalent Luminosity (/pb) = 5.29387e+07
