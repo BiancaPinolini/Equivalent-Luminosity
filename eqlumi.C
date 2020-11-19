@@ -27,7 +27,7 @@ void eqlumi(char const *MC_prod, char const *MC_step, char const *sample_name, I
         if(sample_year == 2018) T->SetBranchAddress("genEventSumw_",&N);
         else T->SetBranchAddress("genEventSumw",&N);        
         T->GetEntry(0);
-	    Sum += N;
+	Sum += N;
 
     }
     std::cout << "Number of events = " << Sum << std::endl;

@@ -1,0 +1,14 @@
+   ------------------------------------------------------------------
+  | Welcome to ROOT 6.22/02                        https://root.cern |
+  | (c) 1995-2020, The ROOT Team; conception: R. Brun, F. Rademakers |
+  | Built for linuxx8664gcc on Aug 17 2020, 12:46:52                 |
+  | From tags/v6-22-02@v6-22-02                                      |
+  | Try '.help', '.demo', '.license', '.credits', '.quit'/'.q'       |
+   ------------------------------------------------------------------
+
+
+Processing eqlumi.C("/Autumn18_102X_nAODv6_Full2018v6", "/MCl1loose2018v6__MCCorr2018v6__l2loose__l2tightOR2018v6", "TTTo2L2Nu", 58, 2018)...
+TTTo2L2Nu
+Number of events = 4.62208e+09
+Xsec (pb) = 87.31
+Equivalent Luminosity = 5.29387e+07
